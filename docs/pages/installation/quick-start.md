@@ -16,7 +16,7 @@ Use the Meshery command line interface, [mesheryctl]({{ site.baseurl }}/guides/m
 
 ### Install on Kubernetes
 
- <pre class="codeblock-pre" style="padding: 0; font-size:0px;"><div class="codeblock" style="display: block;">
+ <pre class="codeblock-pre" style="padding: 0; font-size:0px;margin-top:10px;"><div class="codeblock" style="display: block;">
  <div class="clipboardjs">
     <span style="font-size:0;">curl -L https://meshery.io/install | PLATFORM=kubernetes bash -</span> 
  </div>
@@ -31,7 +31,7 @@ Use the Meshery command line interface, [mesheryctl]({{ site.baseurl }}/guides/m
 
 ### Install on Docker
 
-<pre class="codeblock-pre" style="padding: 0; font-size:0px;"><div class="codeblock" style="display: block;">
+<pre class="codeblock-pre" style="padding: 0; margin-top:10px;font-size:0px;"><div class="codeblock" style="display: block;">
  <div class="clipboardjs">
  <span style="font-size:0;">curl -L https://meshery.io/install | PLATFORM=docker bash -</span>  
  </div>
